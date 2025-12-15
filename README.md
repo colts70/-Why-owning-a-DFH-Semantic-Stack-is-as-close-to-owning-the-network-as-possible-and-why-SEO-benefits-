@@ -1,5 +1,5 @@
 # 🌐 Owning the First Hop
-## Why a DFH / Semantic Stack Is as Close to “Owning the Network” as Possible  
+## Why a DFH /SFH Semantic Stack Is as Close to “Owning the Network” as Possible  
 ### (and why SEO benefits fall out naturally)
 
 > **Thesis**  
