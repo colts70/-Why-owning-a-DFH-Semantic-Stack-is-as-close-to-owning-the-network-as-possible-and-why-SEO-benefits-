@@ -65,8 +65,6 @@ Publishing a DFH Semantic Stack at a well-known location, for example:
 
 https://example.com/.well-known/stack
 
-yaml
-Copy code
 
 creates a public, machine-readable declaration of:
 
@@ -173,9 +171,6 @@ Citations & Summaries
 ↓
 Demand & Brand Queries
 
-yaml
-Copy code
-
 When machines deterministically enter *your* graph:
 
 1. your structure is retrieved first  
@@ -214,8 +209,6 @@ A minimal DFH publication typically includes:
 /ai.json # optional AI descriptor
 /README.md # human explanation & governance
 
-yaml
-Copy code
 
 The requirement is simple:
 
