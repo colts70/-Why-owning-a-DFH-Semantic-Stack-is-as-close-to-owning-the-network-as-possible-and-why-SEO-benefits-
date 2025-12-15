@@ -65,8 +65,6 @@ Publishing a DFH Semantic Stack at a well-known location (example):
 
 https://example.com/.well-known/stack
 
-yaml
-Copy code
 
 …creates a public, machine-readable declaration of:
 
@@ -212,9 +210,6 @@ A minimal DFH stack typically includes:
 /robots.txt # crawler rules
 /ai.json # optional AI-specific descriptor
 /README.md # human explanation / policy / governance
-
-yaml
-Copy code
 
 The key principle:
 
