@@ -174,8 +174,6 @@ A minimal “stack” publication typically includes:
 /ai.json (optional) # AI-specific descriptor (if you use it)
 /README.md # human explanation / policy / governance
 
-yaml
-Copy code
 
 The key is: **one stable place machines can always check first**.
 
